@@ -1,7 +1,8 @@
 # Harv AI 
 
 Harv AI is a modern AI-powered web application that leverages **TypeScript**, **Supabase**, and **Tailwind CSS** to provide a seamless and interactive experience.
-The app is deployed on **Netlify**: [harva-i.netlify.app](https://harva-i.netlify.app/)
+The app is deployed on 
+**Netlify**: [harva-i.netlify.app](https://harva-i.netlify.app/)
 
 ---
 
